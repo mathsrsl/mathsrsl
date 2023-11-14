@@ -1,4 +1,7 @@
-### Hi there 👋
+### I am a young apprentice dev interested in web development, UI/UX design, python development and everything related to code. 👋
+
+# My Skills
+
 
 <!--
 **mathsrsl/mathsrsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
