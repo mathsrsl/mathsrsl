@@ -1,4 +1,6 @@
-<h2 style="coolor=#fff">I am a young apprentice dev interested in web development, UI/UX design, python development and everything related to code. 👋</h2>
+# Hey There! 👋
+
+<h2 style="coolor=#fff">I am a young apprentice dev interested in web development, UI/UX design, python development and everything related to code.</h2>
 
 # My Skills
 
