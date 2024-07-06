@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=
+<img src="https://skillicons.dev/icons?i=
 js,ts,
 html,css,sass,
 py,c,java,php,kotlin,react,
