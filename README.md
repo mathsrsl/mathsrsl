@@ -7,22 +7,22 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=
-    js,ts,
-      html,css,sass,
-      py,c,java,php,kotlin,react,
-      mysql,sqlite,postgres,
-      flask,
-      cmake,npm,
-      linux,windows,bash,
-      arduino,
-      discord,
-      bots,
-      figma,notion,obsidian,
-      github,gitlab,git,
-      idea,clion,pycharm,phpstorm,webstorm,androidstudio,vscode,eclipse,
-      heroku,cloudflare,grafana,
-      codepen,stackoverflow
-      &theme=dark&perline=9" />
+js,ts,
+html,css,sass,
+py,c,java,php,kotlin,react,
+mysql,sqlite,postgres,
+flask,
+cmake,npm,
+linux,windows,bash,
+arduino,
+discord,
+bots,
+figma,notion,obsidian,
+github,gitlab,git,
+idea,clion,pycharm,phpstorm,webstorm,androidstudio,vscode,eclipse,
+heroku,cloudflare,grafana,
+codepen,stackoverflow
+&theme=dark&perline=9" />
   </a>
 </p>
 
